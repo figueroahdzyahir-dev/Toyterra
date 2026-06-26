@@ -1,4 +1,4 @@
-# Toyterra
+# Toyterra TCG
 
 Toyterra is a complete local browser card battler built with React, TypeScript,
 and Vite. It has no backend and keeps all game state in memory.
